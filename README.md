@@ -6,6 +6,8 @@ Soy Joel o Jo-dle(no preguntes el por qué del nombre) un "apasionado" estudiant
 - 🌱 Estoy intentando aprender de todo aunque curso actualmente creación y gestión de repositorios de contenido 
 - 🤔 Tengo una cantidad de dudas increibles sobre todo aunque PHP y HTML son mis mayores debilidades
 - ⚡ Sobre mi: Me encanta hablar e intercambiar opiniones, pero no me preguntes sobre PHP.
+- :floppy_disk: Estos son mis únicos dos proyectos: [El proyecto principal](https://github.com/calderin21/ecommerce) Y [Mi ramificación](https://github.com/Jo-dle/ecommerce)
+  
 
 
 <image src="Paisaje.jpg" alt="Un reloj para que no te pierdas la hora de salir" width="1950" height="500">
